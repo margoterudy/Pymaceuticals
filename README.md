@@ -1,7 +1,5 @@
 # Pymaceuticals
 NW bootcamp Assignment 5
-# Pymaceuticals
-NW bootcamp Assignment 5
 
 ANALYSIS
 
